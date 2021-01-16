@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first half term as a trainee teacher
+title: My first half term.
 subtitle: I've enjoyed every minute of the last four weeks.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
