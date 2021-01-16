@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My first half term.
-subtitle: I've enjoyed every minute of the last four weeks.
+title: My first term.
+subtitle: Been a good one init.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
