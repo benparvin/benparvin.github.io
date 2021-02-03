@@ -14,7 +14,7 @@ author: Ben Parvin
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "/"
+  Home: ""
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
