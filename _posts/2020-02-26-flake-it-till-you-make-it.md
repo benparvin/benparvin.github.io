@@ -2,8 +2,8 @@
 layout: post
 title: My first term.
 subtitle: Been a good one init.
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/profilepic.png
+thumbnail-img: /assets/img/profilepic.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
